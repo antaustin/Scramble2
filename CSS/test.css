@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+h1{
+    font-size: 30px;
+    color: crimson;
+    }
+h2{
+    color: teal;
+    }
+
+.Big{
+    font-size: 60px;
+    }
+.uppercase{
+    text-transform: uppercase;
+    }
+
+.Big.uppercase{
+    color: orange;
+    }
+h1 span{
+    color: violet;
+    }
