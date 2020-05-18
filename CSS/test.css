@@ -1,5 +1,5 @@
 head {
-    background: black;
+    background;
 }
 
 header{
@@ -29,12 +29,12 @@ main h1, h2 {
 }
 
 main{
-    background-color: black;
+    background-color: white;
     width: 800px;
     margin: 0 auto;
     padding: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: white;
+    color: black;
     text-align: center;
 }
 
