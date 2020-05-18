@@ -1,25 +1,55 @@
-body{
-    background-color: white;
+head {
+    background: black;
 }
 
-h1{
-    font-size: 100px;
-    color: black;
-    }
-h2{
-    color: navy;
-    }
+header{
+    background-color: wheat;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 150px;
+}
 
-.Big{
-    font-size: 60px;
-    }
-.uppercase{
-    text-transform: uppercase;
-    }
+header img {border-radius: 250px;
+    border: 50px grey;
+}
 
-.Big.uppercase{
-    color: orange;
-    }
-h1 span{
-    color: violet;
-    }
+header h1 {color: black;
+font-size: 150px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main img {
+    max-width: 100%;
+    text-align: center;
+}
+
+main h1, h2 {
+    text-align: center;
+    color: wheat;  
+}
+
+main{
+    background-color: black;
+    width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+main h2 {
+    font-size: 50px;
+}
+
+main p {
+    font-size: 15px;
+    text-align: left;
+}
+main li{
+    text-align: left;
+}
+
+p {
+    text-align: center;
+}
